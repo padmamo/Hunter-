@@ -7,7 +7,7 @@ text-2: **About**
 text-3: **Resume**
 text-4: **Contact**
 
--- lib.hero: **Govindaraman S**
+-- lib.hero: **Vasudev P kumar**
 cta-text-1: ***"Reframe the future"***
 cta-text-2: **Dreamer | Designer | Developer**
 pic: $assets.files.images.hero.jpg
@@ -18,7 +18,7 @@ github: $assets.files.images.github.png
 
 -- lib.about: **About Me**
 
-**Heyy, I am Govindaraman! I want to Create Renewable Alternatives for Future 
+**Heyy, I am Vasudev! I want to Create Renewable Alternatives for Future 
 Technology. I am a Designer who want to build cool things that are useful for 
 society. I also want to support my peers to become the best version of 
 themselves**
