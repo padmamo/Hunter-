@@ -1,46 +1,48 @@
--- import: padmamo.github.io/hunter-/assets
+-- import: padmamo.github.io/hunter/assets
+-- import: padmamo.github.io/hunter/lib
 
+-- lib.navbar:
+text-1: **Home**
+text-2: **About**
+text-3: **Resume**
+text-4: **Contact**
 
+-- lib.hero: **Govindaraman S**
+cta-text-1: ***"Reframe the future"***
+cta-text-2: **Dreamer | Designer | Developer**
+pic: $assets.files.images.hero.jpg
+linkedin: $assets.files.images.linkedin.png
+twit: $assets.files.images.twitter.png
+insta: $assets.files.images.insta.png
+github: $assets.files.images.github.png
 
--- ds.page: Welcome to doc-site
-site-name: NULL
+-- lib.about: **About Me**
 
+**Heyy, I am Govindaraman! I want to Create Renewable Alternatives for Future 
+Technology. I am a Designer who want to build cool things that are useful for 
+society. I also want to support my peers to become the best version of 
+themselves**
 
-⚡️ `doc-site` will help you create a beautiful documentation site in no time.
+-- lib.page: **Experience**
 
-It provides out-of-the-box documentation features that can be used to create any
-kind of site(personal website, blog, etc).
+-- lib.resume-card: **Front-End Developer**
+icon: $assets.files.images.trizwit.jpeg
+organization: **Trizwit Labs**
+duration: *Feb 2023 - Present*
 
--- ds.h3: 🚀 Fast Track 
+-- lib.resume-card: **Freelance Graphic Designer**
+icon: $assets.files.images.org.png
+organization: **Fiver**
+duration: *Sep 2022 - Present*
 
-Create your first fastn [web-site](https://fastn.com/expander/hello-world/-/build/) 
-project in just 5 minutes!
+-- lib.resume-card: **Chairman**
+icon: $assets.files.images.org.png
+organization: **IEEE MACE SB**
+duration: *Jan 2021 - Dec 2021*
 
--- ds.h3: 🌟 Whats next?
+-- lib.page: **Education**
 
-Create your first page. 
-[Click here to know more](https://fastn-community.github.io/doc-site/page/).
-
--- ds.h3: 👀 Want to learn more?
-
-Feel free to check [our expander course](https://fastn.com/expander/) or jump
-into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
-
-
--- ds.h3: 🎯 Used by?
-
-Our all documentation sites uses this `doc-site` theme.
-
-- [fastn.com](https://fastn.com/home/)
-- [FifthTry.com](https://www.fifthtry.com/)
-
--- ds.markdown:
-
-\.
-
--- ds.h2: Learn fastn and become a pro?
-
-You are one click away, just check [our documentation](https://fastn.com/) and 
-dont forget to jump into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
-
--- end: ds.page
+-- lib.resume-card: **B.Tech Electrcial & Electronics Engineering**
+icon: $assets.files.images.org.png
+organization: **Mar Athanasius College of Engineering, Kothamanagalam**
+duration: *Aug 2018 - July 2022*
