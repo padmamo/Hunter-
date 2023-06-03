@@ -1,5 +1,5 @@
--- import: padmamo.github.io/hunter/assets
--- import: padmamo.github.io/hunter/lib
+-- import: padmamo.github.io/hunter-/assets
+-- import: padmamo.github.io/hunter-/lib
 
 -- lib.navbar:
 text-1: **Home**
